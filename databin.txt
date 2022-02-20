@@ -1,0 +1,189 @@
+Prequential Evaluation
+Evaluating 1 target(s).
+Pre-training on 36840 sample(s).
+Evaluating...
+ ####---------------- [20%] [779.56s] ########------------ [40%] [1544.64s] ############-------- [60%] [2319.65s] ################---- [80%] [3128.02s] ###################- [96%] [3794.07s]
+Processed samples: 921000
+Mean performance:
+KNN - Accuracy     : 0.9585
+KNN - Kappa        : 0.8573
+KNN - Precision: 0.9635
+KNN - Recall: 0.9864
+KNN - F1 score: 0.9748
+KNN - Training time (s)  : 27.49
+KNN - Testing time  (s)  : 10.38
+KNN - Total time    (s)  : 37.87
+HT - Accuracy     : 0.9554
+HT - Kappa        : 0.8476
+HT - Precision: 0.9633
+HT - Recall: 0.9826
+HT - F1 score: 0.9729
+HT - Training time (s)  : 110.61
+HT - Testing time  (s)  : 47.33
+HT - Total time    (s)  : 157.93
+NB - Accuracy     : 0.7951
+NB - Kappa        : 0.2209
+NB - Precision: 0.8470
+NB - Recall: 0.9132
+NB - F1 score: 0.8789
+NB - Training time (s)  : 62.56
+NB - Testing time  (s)  : 46.71
+NB - Total time    (s)  : 109.27
+RSLVQ - Accuracy     : 0.9573
+RSLVQ - Kappa        : 0.8532
+RSLVQ - Precision: 0.9630
+RSLVQ - Recall: 0.9853
+RSLVQ - F1 score: 0.9740
+RSLVQ - Training time (s)  : 172.35
+RSLVQ - Testing time  (s)  : 7.26
+RSLVQ - Total time    (s)  : 179.61
+ARF - Accuracy     : 0.9584
+ARF - Kappa        : 0.8571
+ARF - Precision: 0.9635
+ARF - Recall: 0.9863
+ARF - F1 score: 0.9748
+ARF - Training time (s)  : 2994.06
+ARF - Testing time  (s)  : 321.33
+ARF - Total time    (s)  : 3315.40
+PERCEPTRON - Accuracy     : 0.9150
+PERCEPTRON - Kappa        : 0.7282
+PERCEPTRON - Precision: 0.9566
+PERCEPTRON - Recall: 0.9381
+PERCEPTRON - F1 score: 0.9473
+PERCEPTRON - Training time (s)  : 0.18
+PERCEPTRON - Testing time  (s)  : 0.05
+PERCEPTRON - Total time    (s)  : 0.23
+LEARNER - Accuracy     : 0.9560
+LEARNER - Kappa        : 0.8494
+LEARNER - Precision: 0.9634
+LEARNER - Recall: 0.9833
+LEARNER - F1 score: 0.9732
+LEARNER - Training time (s)  : 63.46
+LEARNER - Testing time  (s)  : 49.59
+LEARNER - Total time    (s)  : 113.05
+Prequential Evaluation
+Evaluating 1 target(s).
+Pre-training on 18420 sample(s).
+Evaluating...
+ ##------------------ [10%] [391.20s] ####---------------- [20%] [790.84s] ######-------------- [30%] [1194.46s] ########------------ [40%] [1595.40s] ##########---------- [50%] [1986.90s] ############-------- [60%] [2374.91s] ##############------ [70%] [2765.40s] ################---- [80%] [3180.70s] ##################-- [90%] [3606.42s] #################### [98%] [3934.62s]
+Processed samples: 921000
+Mean performance:
+KNN - Accuracy     : 0.9798
+KNN - Kappa        : 0.9324
+KNN - Precision: 0.9885
+KNN - Recall: 0.9868
+KNN - F1 score: 0.9876
+KNN - Training time (s)  : 25.85
+KNN - Testing time  (s)  : 10.76
+KNN - Total time    (s)  : 36.61
+HT - Accuracy     : 0.9625
+HT - Kappa        : 0.8759
+HT - Precision: 0.9809
+HT - Recall: 0.9730
+HT - F1 score: 0.9770
+HT - Training time (s)  : 119.08
+HT - Testing time  (s)  : 61.78
+HT - Total time    (s)  : 180.86
+NB - Accuracy     : 0.4875
+NB - Kappa        : 0.0395
+NB - Precision: 0.8412
+NB - Recall: 0.4601
+NB - F1 score: 0.5949
+NB - Training time (s)  : 59.53
+NB - Testing time  (s)  : 73.86
+NB - Total time    (s)  : 133.39
+RSLVQ - Accuracy     : 0.9703
+RSLVQ - Kappa        : 0.9006
+RSLVQ - Precision: 0.9825
+RSLVQ - Recall: 0.9811
+RSLVQ - F1 score: 0.9818
+RSLVQ - Training time (s)  : 161.68
+RSLVQ - Testing time  (s)  : 7.34
+RSLVQ - Total time    (s)  : 169.02
+ARF - Accuracy     : 0.9788
+ARF - Kappa        : 0.9290
+ARF - Precision: 0.9873
+ARF - Recall: 0.9868
+ARF - F1 score: 0.9870
+ARF - Training time (s)  : 3009.99
+ARF - Testing time  (s)  : 330.37
+ARF - Total time    (s)  : 3340.36
+PERCEPTRON - Accuracy     : 0.9477
+PERCEPTRON - Kappa        : 0.8268
+PERCEPTRON - Precision: 0.9715
+PERCEPTRON - Recall: 0.9644
+PERCEPTRON - F1 score: 0.9679
+PERCEPTRON - Training time (s)  : 0.20
+PERCEPTRON - Testing time  (s)  : 0.05
+PERCEPTRON - Total time    (s)  : 0.25
+LEARNER - Accuracy     : 0.9758
+LEARNER - Kappa        : 0.9194
+LEARNER - Precision: 0.9868
+LEARNER - Recall: 0.9837
+LEARNER - F1 score: 0.9852
+LEARNER - Training time (s)  : 73.64
+LEARNER - Testing time  (s)  : 57.65
+LEARNER - Total time    (s)  : 131.30
+Prequential Evaluation
+Evaluating 1 target(s).
+Pre-training on 9210 sample(s).
+Evaluating...
+ #------------------- [5%] [206.45s] ##------------------ [10%] [400.08s] ###----------------- [15%] [594.20s] ####---------------- [20%] [789.78s] #####--------------- [25%] [986.02s] ######-------------- [30%] [1183.40s] #######------------- [35%] [1382.59s] ########------------ [40%] [1579.97s] #########----------- [45%] [1776.75s] ##########---------- [50%] [1974.08s] ###########--------- [55%] [2172.51s] ############-------- [60%] [2370.57s] #############------- [65%] [2568.49s] ##############------ [70%] [2766.82s] ###############----- [75%] [2971.45s] ################---- [80%] [3187.07s] #################--- [85%] [3401.72s] ##################-- [90%] [3617.53s] ###################- [95%] [3827.55s] #################### [99%] [3992.06s]
+Processed samples: 921000
+Mean performance:
+KNN - Accuracy     : 0.9826
+KNN - Kappa        : 0.9411
+KNN - Precision: 0.9886
+KNN - Recall: 0.9902
+KNN - F1 score: 0.9894
+KNN - Training time (s)  : 25.95
+KNN - Testing time  (s)  : 10.94
+KNN - Total time    (s)  : 36.88
+HT - Accuracy     : 0.9486
+HT - Kappa        : 0.8272
+HT - Precision: 0.9702
+HT - Recall: 0.9670
+HT - F1 score: 0.9686
+HT - Training time (s)  : 132.09
+HT - Testing time  (s)  : 73.19
+HT - Total time    (s)  : 205.28
+NB - Accuracy     : 0.4252
+NB - Kappa        : 0.0414
+NB - Precision: 0.8556
+NB - Recall: 0.3593
+NB - F1 score: 0.5061
+NB - Training time (s)  : 59.50
+NB - Testing time  (s)  : 75.15
+NB - Total time    (s)  : 134.65
+RSLVQ - Accuracy     : 0.9754
+RSLVQ - Kappa        : 0.9177
+RSLVQ - Precision: 0.9876
+RSLVQ - Recall: 0.9824
+RSLVQ - F1 score: 0.9850
+RSLVQ - Training time (s)  : 160.56
+RSLVQ - Testing time  (s)  : 7.47
+RSLVQ - Total time    (s)  : 168.03
+ARF - Accuracy     : 0.9893
+ARF - Kappa        : 0.9630
+ARF - Precision: 0.9881
+ARF - Recall: 0.9990
+ARF - F1 score: 0.9935
+ARF - Training time (s)  : 2979.14
+ARF - Testing time  (s)  : 336.56
+ARF - Total time    (s)  : 3315.69
+PERCEPTRON - Accuracy     : 0.9794
+PERCEPTRON - Kappa        : 0.9304
+PERCEPTRON - Precision: 0.9869
+PERCEPTRON - Recall: 0.9881
+PERCEPTRON - F1 score: 0.9875
+PERCEPTRON - Training time (s)  : 0.26
+PERCEPTRON - Testing time  (s)  : 0.06
+PERCEPTRON - Total time    (s)  : 0.32
+LEARNER - Accuracy     : 0.9816
+LEARNER - Kappa        : 0.9371
+LEARNER - Precision: 0.9859
+LEARNER - Recall: 0.9917
+LEARNER - F1 score: 0.9888
+LEARNER - Training time (s)  : 83.50
+LEARNER - Testing time  (s)  : 68.46
+LEARNER - Total time    (s)  : 151.95
